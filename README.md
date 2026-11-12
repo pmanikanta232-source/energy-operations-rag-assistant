@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Energy Operations Document RAG Assistant
 
 A self-contained RAG demonstration using FastAPI, TF-IDF vector representations, cosine-similarity retrieval, extractive answer generation, source citations, and a basic evidence-support check.
@@ -48,3 +49,7 @@ TF-IDF is used as an offline, reproducible baseline embedding representation, so
 5. Verify `/api/health`, the UI, and `/docs` on the deployed domain.
 
 No API keys are required for this baseline.
+=======
+# energy-operations-rag-assistant
+Energy Operations Document RAG Assistant using FastAPI and TF-IDF
+>>>>>>> abfbc995795caaca5107100dedb727de3b99f294
